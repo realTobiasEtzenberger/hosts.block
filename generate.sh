@@ -62,12 +62,13 @@ echo "Remove Blank/Empty Lines"
 sed '/^$/d' -i cache.txt
 
 # Adding Info
-echo "Updated at $(date)" > hosts.txt
-echo "\nWhitelists:\n" >> hosts.txt
-cat whitelist.txt >> hosts.txt
-echo "\nBlacklist:\n" >> hosts.txt
-cat blacklist.txt >> hosts.txt
-echo "\n\n\n" >> hosts.txt
+echo "Updated at $(date)" > info.txt
+echo "\nWhitelists:\n" >> info.txt
+cat white.txt >> info.txt
+echo "\nBlacklist:\n" >> info.txt
+cat black.txt >> info.txt
+echo "\n\n\n" >> info.txt
+awk '$0="# "$0' info.txt > hosts.txt
 
 # Build hosts.txt
 echo "Build hosts.txt"
