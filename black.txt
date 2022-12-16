@@ -1,0 +1,12 @@
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/MS-Office-Telemetry
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+https://v.firebog.net/hosts/static/w3kbl.txt
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt

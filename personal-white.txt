@@ -1,0 +1,113 @@
+# Twitter
+t.co
+# Bawag App
+grs.dbankcloud.com
+# pcloud
+www.pcloud.com
+e.pcloud.link
+u.pcloud.link
+# Eduscho
+tagm.eduscho.at
+# Guerillamail
+www.guerrillamail.com
+# paysafe
+www.paysafecard.com
+# unity
+config.uca.cloud.unity3d.com
+cdp.cloud.unity3d.com
+# Österreich
+erg.xn--sterreich-testet-lwb.at
+xn--allestrungen-9ib.at
+# google
+storage.googleapis.com
+firebaseinstallations.googleapis.com
+fonts.gstatic.com
+# amazon
+aan.amazon-adsystem.com
+aan.amazon.co.jp
+aan.amazon.co.uk
+aan.amazon.com
+aax-cpm.amazon-adsystem.com
+aax-eu-dub.amazon.com
+aax-eu-retail-direct.amazon-adsystem.com
+aax-eu.amazon-adsystem.com
+aax-fe-sin.amazon-adsystem.com
+aax-fe.amazon-adsystem.com
+aax-us-east-rtb.amazon-adsystem.com
+aax-us-east.amazon-adsystem.com
+aax-us-iad.amazon.com
+aax-us-pdx.amazon-adsystem.com
+aax-us.amazon-adsystem.com
+aax.amazon-adsystem.com
+advertising.amazon.co.jp
+advertising.amazon.co.uk
+amazon-adsystem.com
+c.amazon-adsystem.com
+cdn-a.amazon-adsystem.com
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
+dra.amazon-adsystem.com
+fls-cn.amazon.cn
+fls-cn.amazon.com
+fls-eu.amazon-adsystem.com
+fls-eu.amazon.ae
+fls-eu.amazon.co.uk
+fls-eu.amazon.com
+fls-eu.amazon.de
+fls-eu.amazon.es
+fls-eu.amazon.fr
+fls-eu.amazon.in
+fls-eu.amazon.it
+fls-eu.amazon.nl
+fls-eu.amazon.sa
+fls-eu.amazon.se
+fls-fe.amazon-adsystem.com
+fls-fe.amazon.co.jp
+fls-fe.amazon.com
+fls-fe.amazon.com.au
+fls-fe.amazon.sg
+fls-na.amazon-adsystem.com
+fls-na.amazon.ca
+fls-na.amazon.com
+fls-na.amazon.com.br
+fls-na.amazon.com.mx
+ir-de.amazon-adsystem.com
+ir-jp.amazon-adsystem.com
+ir-na.amazon-adsystem.com
+ir-uk.amazon-adsystem.com
+mads.amazon-adsystem.com
+mads.amazon.com
+ps-eu.amazon-adsystem.com
+ps-jp.amazon-adsystem.com
+ps-us.amazon-adsystem.com
+rcm-eu.amazon-adsystem.com
+rcm-fe.amazon-adsystem.com
+rcm-images.amazon.com
+rcm-it.amazon.it
+rcm-jp.amazon.co.jp
+rcm-na.amazon-adsystem.com
+rcm.amazon.com
+s.amazon-adsystem.com
+uedata.amazon.com
+vaes.amazon-adsystem.com
+wms-eu.amazon-adsystem.com
+wms-na.amazon-adsystem.com
+ws-ea.amazon-adsystem.com
+ws-eu.amazon-adsystem.com
+ws-fe.amazon-adsystem.com
+ws-na.amazon-adsystem.com
+ws.amazon.co.jp
+z-eu.amazon-adsystem.com
+z-na.amazon-adsystem.com
+# ?
+ai.lab.amplitude.com
+mobile-production.content-square.net
+privacy-policy.truste.com
+oasis.opstatics.com
+urldefense.com
+www.econda-monitor.de
+static.wixstatic.com
+static.parastorage.com
+gcp.api.snapchat.com
+lp.postman.com
+bit.ly
