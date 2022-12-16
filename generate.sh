@@ -63,11 +63,13 @@ sed '/^$/d' -i cache.txt
 
 # Adding Info
 echo "Updated at $(date)" > info.txt
-echo "\nWhitelists:\n" >> info.txt
+echo "Whitelists:" >> info.txt
 cat white.txt >> info.txt
-echo "\nBlacklist:\n" >> info.txt
+echo "Blacklist:" >> info.txt
 cat black.txt >> info.txt
-echo "\n\n\n" >> info.txt
+echo "" >> info.txt
+echo "" >> info.txt
+echo "" >> info.txt
 awk '$0="# "$0' info.txt > hosts.txt
 
 # Build hosts.txt
