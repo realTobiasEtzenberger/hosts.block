@@ -1,8 +1,7 @@
-wget -i white.txt -O whitelist.txt
-wget -i black.txt -O blacklist.txt
+wget -i white.txt -O whitelist.txt -q
+wget -i black.txt -O blacklist.txt -q
 
 cat personal-white.txt >> whitelist.txt
-
 
 clean_list() {
     echo "Started cleaning $1"
@@ -68,7 +67,7 @@ awk '$0="0.0.0.0 "$0' cache.txt > hosts.txt
 
 # Clear Files
 echo "Clear Files"
-rm -f cache.txt 
+rm -f cache.txt whitelist.txt blacklist.txt
 
 echo "Domains blocked: $(wc -l hosts.txt)"
 
