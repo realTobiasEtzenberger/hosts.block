@@ -75,6 +75,7 @@ awk '$0="# "$0' info.txt > hosts.txt
 # Build hosts.txt
 echo "Build hosts.txt"
 awk '$0="0.0.0.0 "$0' cache.txt >> hosts.txt
+awk '$0="127.0.0.1 "$0' cache.txt >> adaway.txt
 
 # Clear Files
 echo "Clear Files"
