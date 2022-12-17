@@ -65,6 +65,8 @@ sed '/^$/d' -i cache.txt
 echo "Updated at $(date)" > info.txt
 echo "Whitelists:" >> info.txt
 cat white.txt >> info.txt
+echo "" >> info.txt
+echo "" >> info.txt
 echo "Blacklist:" >> info.txt
 cat black.txt >> info.txt
 echo "" >> info.txt
@@ -82,5 +84,6 @@ echo "Clear Files"
 rm -f cache.txt whitelist.txt blacklist.txt
 
 echo "Domains blocked: $(wc -l hosts.txt)"
+echo "Domains blocked: $(wc -l adaway.txt)"
 
 echo "Finsihed Script ;)"
