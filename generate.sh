@@ -63,6 +63,8 @@ sed '/^$/d' -i cache.txt
 
 # Adding Info
 echo "Updated at $(date)" > info.txt
+echo "Valid: 1 week" >> info.txt
+echo "" >> info.txt
 echo "Whitelists:" >> info.txt
 cat white.txt >> info.txt
 echo "" >> info.txt
@@ -73,6 +75,7 @@ echo "" >> info.txt
 echo "" >> info.txt
 echo "" >> info.txt
 awk '$0="# "$0' info.txt > hosts.txt
+awk '$0="# "$0' info.txt > adaway.txt
 
 # Build hosts.txt
 echo "Build hosts.txt"
